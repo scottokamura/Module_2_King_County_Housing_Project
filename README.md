@@ -38,4 +38,4 @@
 
 ### Additional Contents
 1. Slide deck presentation ('presentation.pdf')
-2. Personal blog on process (https://scottokamura.github.io/data_science_non-technical_skill_slideshows)
+2. Related blog on creating effective slideshow presentations (https://scottokamura.github.io/data_science_non-technical_skill_slideshows)
