@@ -34,5 +34,4 @@ If you want to contact me, you can reach me at scott.okamura@gmail.com.
 
 ### Additional Contents
 1. [King County Housing Analysis Presentation](https://github.com/scottokamura/Module_2_King_County_Housing_Project/blob/master/presentation.pdf)
-2. [Blog: Creating Effective Slideshow Presentations ](https://scottokamura.github.io/data_science_non-technical_skill_slideshows)![jazz night](https://user-images.githubusercontent.com/65571381/131410282-7d9e6d0c-c113-4b9d-94fe-1644d4ef25c9.png)
-
+2. [Blog: Creating Effective Slideshow Presentations ](https://scottokamura.github.io/data_science_non-technical_skill_slideshows)
