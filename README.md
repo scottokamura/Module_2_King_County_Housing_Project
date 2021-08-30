@@ -1,41 +1,38 @@
 # King County Housing Data Analysis
 
-## Introduction
-### Objective
+![banner](https://user-images.githubusercontent.com/65571381/131410303-a514d69c-61a7-45df-b18e-7618c63533e6.png)
 
-> For this project, you'll be working with the King County House Sales dataset. We've modified the dataset to make it a bit more fun and challenging. The dataset can be found in the file "kc_house_data.csv", in this repo.
->The description of the column names can be found in the column_names.md file in this repository. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions relating to what the data means.
->You'll clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.
+![GitHub repo size](https://img.shields.io/github/repo-size/scottokamura/Module_2_King_County_Housing_Project)
+![last commit date](https://img.shields.io/github/last-commit/scottokamura/Module_2_King_County_Housing_Project)
+![forks](https://img.shields.io/github/forks/scottokamura/Module_2_King_County_Housing_Project?style=social)
+![stars](https://img.shields.io/github/stars/scottokamura/Module_2_King_County_Housing_Project?style=social)
 
-### Summary of Approach
-1. Determine the target audience
-    - property owners looking to sell
-2. Clean dataset
-   - drop outliers
-   - transform data if necessary (log, squared, etc)
-3. Identify categorical and continuous variables
-   - create dummy variables for categorical variables
-   - group zipcodes by geographic location
-4. Determine independent variables to use in model
-    - using OLS and RFE
-5. Check for multicollinearity
-    - drop featuers with high correlation values
-6. Generate model
-7. Repeat
-    - check if transforming data will improve $R^2$
+King County Housing Data Analysis is a utility that allows __real estate agents__ as well as __potential home buyers__ and __home sellers__ to determine the cost of a house based on specific features. The model is based off of 2014 home sales data and predicts that the feature with the largest effect on price is if the property is on the ___waterfront___ or not.
 
-### Methods and Technologies Used
-1. Python libraries
-2. Pandas, numpy
-3. Matplotlib, seaborn
-4. Plotly, cufflinks
-5. Statsmodels, scipy
+## Prerequisites
+Before you continue, ensure you have met the following requirements:
+* Python 3.0+
+
+### Installing Python 3.0+
+  1. Visit [python.org](https://www.python.org/downloads/)
+  2. Choose your operating system
+  3. Follow the download link and setup wizard instructions
 
 
 ## How to Use Repository
 1. Fork and clone this repository
-2. Open 'King County Housing Analysis.ipynb'
+2. Open 'King County Housing Analysis.ipynb' and run all cells
+
+### Methods and Technologies Used
+- Pandas, numpy
+- Matplotlib, seaborn
+- Plotly, cufflinks
+- Statsmodels, scipy
+
+## Contact
+If you want to contact me, you can reach me at scott.okamura@gmail.com.
 
 ### Additional Contents
-1. Slide deck presentation ('presentation.pdf')
-2. Related blog on creating effective slideshow presentations (https://scottokamura.github.io/data_science_non-technical_skill_slideshows)
+1. [King County Housing Analysis Presentation](https://github.com/scottokamura/Module_2_King_County_Housing_Project/blob/master/presentation.pdf)
+2. [Blog: Creating Effective Slideshow Presentations ](https://scottokamura.github.io/data_science_non-technical_skill_slideshows)![jazz night](https://user-images.githubusercontent.com/65571381/131410282-7d9e6d0c-c113-4b9d-94fe-1644d4ef25c9.png)
+
